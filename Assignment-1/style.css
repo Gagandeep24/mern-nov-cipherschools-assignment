@@ -1,0 +1,46 @@
+body{
+    background: black;
+    }
+ #header h2{
+    color:white;
+} 
+#header h1{
+    color: tomato;
+}
+p{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p:hover{
+    color: orange;
+}
+a{
+    margin: 5px;
+    padding: 5px;
+    border: dotted;
+}
+a:hover{
+    color: greenyellow;
+}
+#main{
+    color: tomato;
+}
+#main ul{
+    color: goldenrod;
+}
+#main ol{
+    color: aqua;
+}
+#main a{
+    font-size: large;
+    border: double;
+}
+#main details{
+    color: greenyellow;
+}
+footer{
+    color: orchid;
+    margin: 10px 5px;
+    padding: 5px;
+    border: ridge;
+}
